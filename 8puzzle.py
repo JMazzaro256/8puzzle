@@ -1,4 +1,5 @@
-# Procedural 1D array solution
+# Solution for the 8-digit sliding puzzle using BFS, DFS, and Dijkstra's algorithm.
+# The 3x3 board is represented as a one-dimensional array.
 
 import copy
 
